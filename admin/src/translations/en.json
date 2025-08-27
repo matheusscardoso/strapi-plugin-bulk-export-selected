@@ -1,0 +1,16 @@
+{
+  "plugin": {
+    "name": "Bulk Export Selected",
+    "description": "Export selected items in bulk with advanced CSV formatting"
+  },
+  "buttons": {
+    "export": "Export Selected",
+    "exportCsv": "Export CSV"
+  },
+  "messages": {
+    "noSelection": "No items selected for export",
+    "exportSuccess": "Export completed successfully!",
+    "exportError": "Export failed: {error}",
+    "confirmExport": "Export {count} selected items?"
+  }
+}
