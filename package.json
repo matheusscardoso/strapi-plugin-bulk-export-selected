@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-bulk-export-selected",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for bulk export of selected items in Strapi admin panel",
   "keywords": [
     "strapi",
